@@ -1,0 +1,36 @@
+D:\C\雙人\雙人\x64\Debug\雙人.vcxproj.AssemblyReference.cache
+D:\C\雙人\雙人\x64\Debug\雙人.vcxproj.SuggestedBindingRedirects.cache
+D:\C\雙人\雙人\x64\Debug\雙人.Form1.resources
+D:\C\雙人\雙人\x64\Debug\雙人.vcxproj.GenerateResource.cache
+C:\Users\david\OneDrive\桌面\d9d5737811062e04\雙人\雙人\x64\Debug\雙人.vcxproj.AssemblyReference.cache
+C:\Users\david\OneDrive\桌面\d9d5737811062e04\雙人\雙人\x64\Debug\雙人.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\桌面\d9d5737811062e04\雙人\雙人\x64\Debug\雙人.Form1.resources
+C:\Users\david\OneDrive\桌面\d9d5737811062e04\雙人\雙人\x64\Debug\雙人.vcxproj.GenerateResource.cache
+C:\Users\Hsu\Downloads\d9d5737811062e04\雙人\雙人\x64\Debug\雙人.vcxproj.AssemblyReference.cache
+C:\Users\Hsu\Downloads\d9d5737811062e04\雙人\雙人\x64\Debug\雙人.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hsu\Downloads\d9d5737811062e04\雙人\雙人\x64\Debug\雙人.Form1.resources
+C:\Users\Hsu\Downloads\d9d5737811062e04\雙人\雙人\x64\Debug\雙人.vcxproj.GenerateResource.cache
+C:\Users\david\Downloads\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.AssemblyReference.cache
+C:\Users\david\Downloads\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\david\Downloads\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.Form1.resources
+C:\Users\david\Downloads\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.GenerateResource.cache
+C:\Users\Hsu\Downloads\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.AssemblyReference.cache
+C:\Users\Hsu\Downloads\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hsu\Downloads\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.Form1.resources
+C:\Users\Hsu\Downloads\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.GenerateResource.cache
+C:\Users\david\Downloads\b7df01c039e5de7d (1)\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.AssemblyReference.cache
+C:\Users\david\Downloads\b7df01c039e5de7d (1)\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\david\Downloads\b7df01c039e5de7d (1)\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.Form1.resources
+C:\Users\david\Downloads\b7df01c039e5de7d (1)\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.GenerateResource.cache
+C:\Users\david\Downloads\b7df01c039e5de7d (3)\b7df01c039e5de7d (1)\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.AssemblyReference.cache
+C:\Users\david\Downloads\b7df01c039e5de7d (3)\b7df01c039e5de7d (1)\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\david\Downloads\b7df01c039e5de7d (3)\b7df01c039e5de7d (1)\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.Form1.resources
+C:\Users\david\Downloads\b7df01c039e5de7d (3)\b7df01c039e5de7d (1)\b7df01c039e5de7d\雙人\雙人\x64\Debug\雙人.vcxproj.GenerateResource.cache
+C:\Users\Hsu\Desktop\雙人\雙人\x64\Debug\雙人.vcxproj.AssemblyReference.cache
+C:\Users\Hsu\Desktop\雙人\雙人\x64\Debug\雙人.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hsu\Desktop\雙人\雙人\x64\Debug\雙人.Form1.resources
+C:\Users\Hsu\Desktop\雙人\雙人\x64\Debug\雙人.vcxproj.GenerateResource.cache
+D:\C\遊戲\雙人\雙人\x64\Debug\雙人.vcxproj.AssemblyReference.cache
+D:\C\遊戲\雙人\雙人\x64\Debug\雙人.vcxproj.SuggestedBindingRedirects.cache
+D:\C\遊戲\雙人\雙人\x64\Debug\雙人.Form1.resources
+D:\C\遊戲\雙人\雙人\x64\Debug\雙人.vcxproj.GenerateResource.cache
